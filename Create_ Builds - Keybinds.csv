@@ -1,0 +1,35 @@
+Name,Key,Mod
+Drop,t,Vanilla
+Open Chat,Enter,Vanilla
+Activate Vein Mining,q,Veinminer
+Player Death History,u,Corpse
+Access Toolboxes,Left Alt,Create
+Access Backpack,b,Sophisticated Backpacks
+Run Inventory Upgrades,Delete,Sophisticated Backpacks
+Quiver,v,Supplementaries
+Belt Slot,Insert,Tool Belt
+Map,m,Xaero's World Map
+Enlarge Minimap,Mouse 4,Xaero's World Map
+New Waypoint,n,Xaero's World Map
+Waypoint Screen,Shift + n,Xaero's World Map
+Wand Menu,Crtl + q,Building Wands
+Wand Undo,Crtl + z,Building Wands
+Open Menu,Grave `,Effortless Building
+Effortless Undo,z,Effortless Building
+Effortless Redo,y,Effortless Building
+Shader toggle,o,Oculus
+Shader menu,i,Oculus
+Party Menu,Apostrophe ',Open Parties and Claims
+Back,Mouse 4,Quark
+Rotation Lock,k,Quark
+The Mighty Architect,g,The Mighty Architect
+Tweakaroo Settings,x + t,Tweakage
+Zoom,c,Tweakage
+Free Camera,F14,Tweakage
+Placement Restriction,q + (1-6),Tweakage
+IPN Settings,x + y,Inventory Profiles Next
+Sort Inventory,Middle Mouse,Inventory Profiles Next
+Lock Slot,Left Alt + Click,Inventory Profiles Next
+Center Mouse cursor,[,Create:Tweaked Controllers
+Exit Controller,\,Create:Tweaked Controllers
+Grab Mouse Movments,],Create:Tweaked Controllers
