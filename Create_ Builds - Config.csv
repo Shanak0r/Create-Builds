@@ -1,0 +1,50 @@
+Done,Mod,Filename,Setting,Set to,Default Setting,Reason
+,Server configs,,,,,
+✓,Create,create-server.toml,movableSpawners,UNMOVABLE,NO_PICKUP,can't move spawners
+✓,Create,create-server.toml,vaultCapacity,40,20,bigger vaults
+✓,Create,create-server.toml,toolboxRange,16,10,easier toolbox
+✓,Create,create-server.toml,maxTrackPlacementLength,64,32,more track
+✓,Sophiticated Backpacks,sophisticatedbackpacks-server.toml,server.stackUpgrade:nonStackableItems,"Add in cavers and Create toolboxes, sacks, packages, safe, magic bags",,help avoid item overflows
+✓,Sophiticated Backpacks,sophisticatedbackpacks-server.toml,buffWithPotionEffects,FALSE,TRUE,backpack mobs not so strong
+✓,Sophiticated Backpacks,sophisticatedbackpacks-server.toml,buffHealth,FALSE,TRUE,backpack mobs not so strong
+✓,Sophiticated Backpacks,sophisticatedbackpacks-server.toml,tooManyBackpacksSlowness,TRUE,FALSE,Limit backpacks to 3
+✓,Time Control,timecontrol-common.toml,day_length_seconds,1200,600,20 min daytime
+,Client configs,,,,,
+✓,Artifacts,artifacts/common.json5,"""campsite"": count",2,4,Rarer Campsites
+✓,Artifacts,artifacts/common.json6,artifactRarity,1.8,1,More common in chests
+✓,Farmer's Delight,farmersdelight-client.toml,foodEffectTooltip,FALSE,TRUE,Doubled with Food Effect Tooltips (Forge)
+✓,Majrusz Library,majruszlibrary.json,send_new_available_updates_message,FALSE,TRUE,remove mod update notification
+✓,Majrusz Enchantments,majruszsenchantments.json,enchantments:enlightenment:is_enabled,FALSE,TRUE,exploit involving liquid xp
+✓,Respawn Obelisk,respawnobelisks.jsonc,secondarySpawnMode,IF_OBELISK,NEVER,change spawn point with obelisk
+✓,Respawn Obelisk,respawnobelisks.jsonc,dropCompassOnTp,FALSE,TRUE,the seems stupied
+✓,Respawn Obelisk,respawnobelisks.jsonc,keepInventoryChance,100,5,to keep all items in inventory
+✓,Respawn Obelisk,respawnobelisks.jsonc,keepHotbarChance,100,5,to keep all items in inventory
+✓,Respawn Obelisk,respawnobelisks.jsonc,keepArmorChance,100,10,to keep all items in inventory
+✓,Respawn Obelisk,respawnobelisks.jsonc,keepTrinkets,TRUE,FALSE,to keep all items in inventory
+✓,Supplementaries,supplementaries-common.toml,functional.cage:cage_allow_all_babies,TRUE,FALSE,capture baby mobs in cages
+✓,Supplementaries,supplementaries-common.toml,functional.sack:sack_increment,4,2,More sacks before slowness
+✓,Tectonic,tectonic.json,horizontal_mountain_scale,0.2,0.25,bigger mountains
+✓,Tectonic,tectonic.json,terrain_scale,0.4,1,smoother terrain
+✓,Vein Mining,veinmining-client.toml,activationState,HOLD_KEY_DOWN,STANDING,use Vein Miner key
+✓,Quark,quark-common.toml,General: Shulker Boxes,adds supplmentreries sacks,,right-click items into sacks
+✓,Quark,quark-common.toml,General: Enable Onboarding,FALSE,TRUE,disable popup
+✓,Quark,quark-common.toml,management:Automatic Tool Restock,FALSE,TRUE,use Inventory Proflies
+✓,Quark,quark-common.toml,management:Hotbar Changer,FALSE,TRUE,use Inventory Proflies
+✓,Quark,quark-common.toml,management:Inventory Sorting,FALSE,TRUE,use Inventory Proflies
+✓,Quark,quark-common.toml,tools.ancient_tomes:Loot Tables,adds more structures,"""Loot Tables"" = [""minecraft:chests/stronghold_library,20"", ""minecraft:chests/simple_dungeon,20"", ""minecraft:chests/bastion_treasure,25"", ""minecraft:chests/woodland_mansion,15"", ""minecraft:chests/nether_bridge,0"", ""minecraft:chests/underwater_ruin_big,0"", ""minecraft:chests/underwater_ruin_small,0"", ""minecraft:chests/ancient_city,4"", ""quark:misc/monster_box,5"", ""integrated_stronghold:integrated_stronghold"", ""terralith:mage_towers"", ""idas:ancient_mines"", ""idas:desert_pyramid"", ""idas:labyrinth"", ""idas:frozen_crypt"", ""idas:haunted_manor"", ""idas:necromancers_spire"", ""idas:nexus"", ""idas:pillager_fortress"", ""idas:ruins_of_the_deep"", ""incendium:abandoned_tower"", ""incendium:forbidden_castle"", ""incendium:infernal_altar"", ""incendium:nether_reactor"", ""incendium:sanctum"", ""phantasm:obsidian_tower"", ""terralith:mage_complex""]",more tome avalibility
+✓,Quark,quark-common.toml,tools.ancient_tomes:Valid Enchantments,adds more enchants,"""Valid Enchantments"" = [""minecraft:feather_falling"", ""minecraft:thorns"", ""minecraft:sharpness"", ""minecraft:smite"", ""minecraft:bane_of_arthropods"", ""minecraft:knockback"", ""minecraft:fire_aspect"", ""minecraft:looting"", ""minecraft:sweeping"", ""minecraft:efficiency"", ""minecraft:unbreaking"", ""minecraft:fortune"", ""minecraft:power"", ""minecraft:punch"", ""minecraft:luck_of_the_sea"", ""minecraft:lure"", ""minecraft:loyalty"", ""minecraft:riptide"", ""minecraft:impaling"", ""minecraft:piercing"", ""create:capacity"", ""create:potato_recovery"", ""create_sa:impact"", ""farmersdelight:backstabbing"", ""majruszsenchantments:death_wish"", ""majruszsenchantments:dodge"", ""majruszsenchantments:fishing_fanatic"", ""majruszsenchantments:harvester"", ""majruszsenchantments:horse_protection"", ""majruszsenchantments:horse_swiftness"", ""majruszsenchantments:hunter"", ""majruszsenchantments:leech"", ""majruszsenchantments:magic_protection"", ""majruszsenchantments:misanthropy""]",
+✓,Quark,quark-common.toml,tweaks.utility_recipes:Charcoal To Black Dye,FALSE,TRUE,use create crushing
+✓,Quark,quark-common.toml,world:Azalea Wood,FALSE,TRUE,use caverns and chasms azalea wood
+✓,Quark,quark-common.toml,experimental.game_nerfs,reset most things to vanilla,,to many nerfs
+✓,Quark,quark-common.toml,tweaks.grab_chickens:Needs No Helmet,FALSE,TRUE,grab chicken with helmet
+✓,Quark,quark-common.toml,tweaks:Glass Shard,FALSE,TRUE,ugly glass shards
+✓,Every Compact,everycomp-entries.toml,types.wood_type.quark:azalea,FALSE,TRUE,use caverns and chasms azalea wood
+✓,InControl,incontrol/spawn.json,disable spawning on logs,,,makes custom trees safe
+✓,InControl,incontrol/spawn.json,disable phantoms in overworld,,,Nicer building
+✓,InControl,incontrol/spawner.json,spawn phantoms in the end,,,Where they should be
+✓,Create: Connected,create_connected-common.toml,disable copycat blocks,FALSE,TRUE,use Copycats+
+,Ingame configs,,,,,
+✓,Inventory Profiles Next,ingame-config,Various changes,,,
+✓,Tweakaroo,ingame-config,Various changes,,,
+✓,EMI,ingame-config,Various changes,,,
+✓,Dynamic Music,ingame-config,added various tracks,,,
