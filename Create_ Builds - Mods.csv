@@ -1,208 +1,214 @@
-Name,Minecraft Version 1.20.1,Added For,Info,Client/Server
-World Generation,,,,
-Biome Sizes[Forge/Fabric],biomesize-1.20.1-1.5.jar,Large biomes,,C/S
-TerraBlender,TerraBlender-forge-1.20.1-3.0.1.10.jar,blending biomes,,C/S
-Cliff under a Tree (CliffTree),clifftree-1.7.2.jar,more biome improvments,,C/S
-Blooming Biosphere,blooming-biosphere-1.1.0.jar,Some flowerly biomes,,C/S
-Environmental,environmental-1.20.1-4.0.1.jar,Plants & Animals,,C/S
-Stony Cliffs Are Cool,Stony Cliffs FML v1.1.2.jar,stony cliffs,,C/S
-Caverns & Chasms,caverns_and_chasms-1.20.1-2.0.0.jar,more underground things,,C/S
-Create: Molten Vents,molten_vents-1.20.1-2.0.9.jar,A way to generate ore blocks,,C/S
-Integrated Dungeons and Structures,idas_forge-1.10.3+1.20.1.jar,Cool structures,,C/S
-Integrated Stronghold,integrated_stronghold-1.1.1+1.20.1-forge.jar,Cool Stronghold,,C/S
-Integrated Villages,integrated_villages-1.1.4+1.20.1-forge.jar,Cool Villages,,C/S
-Incendium,Incendium_1.20.x_v5.3.5.jar,Cool Nether,,C/S
-Nullscape,Nullscape_1.20.x_v1.2.8.jar,Cool End,,C/S
-End's Phantasm,phantasm-1.0.1.jar,Cooler End,,C/S
-Custom Trees from Saplings,custom-trees-from-saplings-1.20.jar,a way to get big trees,,C/S
-Random Bone Meal Flowers,randombonemealflowers-1.20.1-4.7.jar,flower farm anywhere,,C/S
-Create: Easy Structures,create_easy_structures-0.2-forge-1.20.1.jar,create structures,,C/S
-Mob Catalog,mobcatalog-1.0.8+1.20.1.jar,Penguins,,C/S
-Automation,,,,
-Create,create-1.20.1-6.0.4.jar,"you know, what it's based on",,C/S
-Create Crafts & Additions,createaddition-1.20.1-1.3.1.jar,cake/electric,,C/S
-Petrol's Parts (Create add-on),petrolsparts-1.20.1-1.2.3-all.jar,Fancy-smancy gears,,C/S
-Create: Diesel Generators,createdieselgenerators-1.20.1-1.3.1.jar,Endgame power source,,C/S
-Create Enchantment Industry,create_enchantment_industry-1.3.2-for-create-6.0.4.jar,Enchant with Create,,C/S
-Create Mechanical Extruder,create_mechanical_extruder-1.20.1-1.6.7-6.0.4.jar,simpler way to make stones,,C/S
-Create Railways Navigator,createrailwaysnavigator-forge-1.20.1-beta-0.8.0-C6.jar,more train things,,C/S
-Create Track Map,,Shows train network,needs update,C/S
-Create: Power Loader,create_power_loader-2.0.0-mc1.20.1.jar,conditional chunk loading,,C/S
-Create Central Kitchen,create_central_kitchen-1.20.1-for-create-6.0.4-1.4.1.jar,tasty,,C/S
-Farmer's Delight,FarmersDelight-1.20.1-1.2.7.jar,More foods,,C/S
-End's Delight,ends_delight-2.5.1+forge.1.20.1.jar,End food,,C/S
-Create Confectionery,create-confectionery1.20.1_v1.1.0.jar,Chocolates,,C/S
-Create: Fishing Bobber Detector,bobberdetector-forge1.20.1-1.0.2.jar,Auto fishing,,C/S
-Building,,,,
-Another Furniture,another_furniture-forge-1.20.1-3.0.2.jar,Furniture,,C/S
-Dave's Building Extended,[1.20.1]davesbuilds.jar,Train Building pieces,curse,C/S
-Create: Additional Lights,morelights-0.2.1.jar,More electric lights,,C/S
-Create: Steam 'n' Rails,,More Railroad building blocks,,C/S
-Create: Bells and Whistles,bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar,More train decorations,,C/S
-Create: Connected,create_connected-1.0.1-mc1.20.1-all.jar,usful kenetics and redstone,disable copycats,C/S
-Create: Copycats,copycats-3.0.0+mc.1.20.1-forge.jar,all the copycat blocks,,C/S
-Create: Deco,createdeco-2.0.3-1.20.1-forge.jar,Bricks and metals,,C/S
-Create Encased,Create Encased-1.20.1-1.7.1-fix2.jar,Encase Everything,,C/S
-Create: Interiors,interiors-0.5.6+forge-mc1.20.1-local.jar,Chairs,,C/S
-Create: Oxidized,create_oxidized-0.1.2.jar,easy weathering copper,,C/S
-Rechiseled,rechiseled-1.1.6-forge-mc1.20.jar,more blocks,,C/S
-Rechiseled: Create,,more create blocks,crashed,C/S
-Quark,Quark-4.0-462.jar,Many blocks/items,,C/S
-Every Compat (Wood Good),everycomp-1.20-2.8.2-forge.jar,All the wood varients,,C/S
-Supplementaries,supplementaries-1.20-3.1.26.jar,cool decorations,,C/S
-Supplementaries Squared,suppsquared-1.20-1.1.21.jar,cool decorations again,,C/S
-Amendments,amendments-1.20-1.2.19.jar,cool decorations more,,C/S
-Twigs,Twigs-1.20.1-3.1.1.jar,Block varients,,C/S
-Decorative Blocks,decorative_blocks-forge-1.20.1-4.1.3.jar,Decorations,,C/S
-Infinity Buttons,infinitybuttons-1.20.1-4.0.4.jar,neat buttons,,C/S
-Tools,,,,
-Sophisticated Backpacks,sophisticatedbackpacks-1.20.1-3.23.16.1243.jar,backpack,,C/S
-Inventory Profiles Next,InventoryProfilesNext-forge-1.20-1.10.14.jar,Inventory sorting and orginization,,C
-Effortless Building,effortlessbuilding-1.20.1-3.10.jar,Easy Building,,C/S
-Building Wands,BuildingWands-mc1.20.1-2.7-forge-beta.jar,Building with wands,,C/S
-The Mighty Architectury,mightyarchitect-0.9.0-FORGE.jar,Automated Building design,,C
-Create Stuff & Additions,create-stuff-additions1.20.1_v2.1.0.jar,Create Flavored tools + Armor,,C/S
-Artifacts,artifacts-forge-9.5.16.jar,extra curios,,C/S
-Enchanted Charms,enchantedcharms-forge-1.20.1-0.1.1.0.jar,unique amulets,check extra xp,C/S
-Majrusz's Enchantments,majruszs-enchantments-forge-1.20.1-1.10.8.jar,Telekinesis is awesome,disable extra xp enchant,C/S
-Vein Mining,veinmining-forge-1.5.0+1.20.1.jar,Vein mining enchantment,,C/S
-Truly Treasures,trulytreasures-1.20-3.0.0-forge.jar,Get enchants from wandering traders,,C/S
-Grappling Hook Mod,grappling_hook_mod-1.20.1-1.20.1-v13.jar,grapple based movement,,C/S
-Create: Balanced Flight (Angel Ring),,Stressed flight,curse,C/S
-Flight Conduit,flightconduit-1.1.2-1.20.1.jar,Untill create: flight updates,,C/S
-Recall Potion [Forge/NeoForge],recall_potion-1.3.0-forge-1.20.1.jar,recall,,C/S
-Comforts,comforts-forge-6.4.0+1.20.1.jar,Beds,,C/S
-Magnum Torch,MagnumTorch-v8.0.2-1.20.1-Forge.jar,Block Spawning,,C/S
-Create: Armor Trims,create_armor_trims-1.20.1-2.0.1.jar,more trims materials,,C/S
-Create: Misc and Things,create_misc_and_things_ 1.20.1_4.0A.jar,some neat things/blocks,,C/S
-Create: Pattern Schematics,pattern_schematics-1.2.3+forge-1.20.1.jar,auto-repeat schematics!,,C/S
-Create: Tweaked Controllers,create_tweaked_controllers-1.20.1-1.2.5.jar,Controller support for contraptions,,C/S
-Tool Belt,ToolBelt-1.20.1-1.20.02.jar,holds the tools,curse,C/S
-Nature's Compass,NaturesCompass-1.20.1-1.11.2-forge.jar,finds the biomes,,C/S
-Explorer's Compass,ExplorersCompass-1.20.1-1.3.3-forge.jar,finds the structures,,C/S
-Charm of Undying,charmofundying-forge-6.5.0+1.20.1.jar,Curios use,,C/S
-Elytra Trims,elytratrims-forge-3.5.7+1.20.1.jar,pretty Elytra,,C/S
-Random Misfits,randomisfits-1.20.1-1.3.3-forge.jar,3x3 tools + extra,"hide bronze, zurite, enderite make steel recipies",C/S
-Ice Prevents Crop Growth,icepreventscropgrowth-1.20.1-3.5.jar,More options for plants,,C/S
-QoL,,,,
-EMI,emi-1.1.21+1.20.1+forge.jar,Recipe lister,,C
-EMIffect,emiffect-forge-1.1.2+mc1.20.1.jar,Effect Discriptions,,C
-Moderately Enough Effect Descriptions (MEED) - A JEED Addon,MEED-1.20.1-5.7.jar,More Effect Discriptions,,C
-EMI Enchanting,emi_enchanting-0.1.2+1.20.1+forge.jar,Enchantment info,,C
-Enchantment Discriptions,EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar,Enchantment Discriptions,,C
-EMI Trades,emitrades-forge-1.2.1+mc1.20.1.jar,Trade lister,,C
-EMI Loot,emi_loot-0.7.5+1.20.1+fix1+fabric.jar,Loot lister,,C/S
-EMI Ores,emi_ores-1.2+1.20.1+forge.jar,Ore lister,,C
-EMI: Create Schematics,emi_create_schematics-1.0.3.jar,Schematic lister,,C/S
-JEI,jei-1.20.1-forge-15.20.0.106.jar,Backup lister,,C
-Just Enough Breeding (JEBr),justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar,Shows breeding foods,,C/S
-ItemZoom,itemzoom-1.20.1-2.9.0.jar,See blocks better in Inventory,"curse, needs EMI compatability",C
-Jade 🔍,Jade-1.20.1-Forge-11.13.1.jar,See what things are,,C/S
-Jade Addons (Forge),JadeAddons-1.20.1-Forge-5.5.0.jar,and some more things,,C/S
-Xaero's World Map,XaerosWorldMap_1.39.4_Forge_1.20.jar,Map,,C/S
-Xaero's Minimap,Xaeros_Minimap_25.2.0_Forge_1.20.jar,Map,,C/S
-Open Parties and Claims,open-parties-and-claims-forge-1.20.1-0.24.0.jar,Map claims,,C/S
-Food Effect Tooltips (Forge),foodeffecttooltips+forge-1.20.1-1.3.0.jar,Food Discriptions,,C
-Chat Heads,chat_heads-0.13.13-forge-1.20.jar,Heads in the chat,,C
-Corpse,corpse-forge-1.20.1-1.0.20.jar,Item saving on death,,C/S
-Easy Anvils,EasyAnvils-v8.0.2-1.20.1-Forge.jar,Enchants + naming,,C/S
-Companion 🐕,Companion-1.20.1-Forge-5.2.2.jar,Pet mechanics,,C/S
-Horseman,horseman-1.20.1-1.3.8-forge.jar,Better Horse controls,,C/S
-Controlling,Controlling-forge-1.20.1-12.0.2.jar,Better control menu,,C
-Cut Through,CutThrough-v8.0.2-1.20.1-Forge.jar,to not cut the grass,,C/S
-Time Control,timecontrol-1.20.1-1.6.0.jar,Longer daytime,,C/S
-Tweakerge,Tweakerge-0.1.5-mc1.20.1.jar,Many many tweaks,,C
-ClearDespawn,ClearDespawn-forge-1.20.2-1.1.15.jar,Flashing items when despawning,,C
-Elytra Slot,elytraslot-forge-6.4.4+1.20.1.jar,Elytra in Curios,,C/S
-Lootr,lootr-forge-1.20-0.7.35.90.jar,Instanced loot,,C/S
-CraftPresence,CraftPresence-2.5.4+1.20.1-forge.jar,Discord ,,C
-Ding,Ding-1.20.1-Forge-1.5.0.jar,gives a ding when game loads,,C
-Create: Compatible Storage,create_compatible_storage-2.1.0.jar,use any chest,,C/S
-Silent Mobs/Minecarts,silent-mobs-3.1.jar,Silence mobs,,C/S
-No Enderman Grief,no-enderman-grief-v.1.1.2.jar,No random messes,,C/S
-Creeper Firework,creeper_firework-2.1.0.b.jar,No explosion holes,,C/S
-Visual Additions,,,,
-Fusion (Connected Textures),fusion-1.2.7-forge-mc1.20.1.jar,Connected textures,,C
-Continuity,continuity-3.0.0+1.20.1.forge.jar,Optifine Connected textures,,C
-[ETF] Entity Texture Features,entity_texture_features_forge_1.20.1-6.2.9.jar,,,C
-[EMF] Entity Model Features,entity_model_features_forge_1.20.1-2.4.1.jar,,,C
-Fresh Animations,FreshAnimations_v1.9.2,Nice Animations,,C
-What Are They Up To (Watut),watut-forge-1.20.1-1.2.3.jar,se what others are doing,,C
-Neko's Enchanted Books,NekosEnchantedBooks-1.19.3-2.0.3.jar,Pretty books,,C
-Visuality: Reforged,visuality-forge-2.0.2.jar,More particals,,C
-CullLessLeaves Reforged (Unofficial),CullLessLeaves-Reforged-1.20.1-1.0.5,Less leaves for more,curse,C
-Stylish Effects,StylishEffects-v8.0.2-1.20.1-Forge.jar,better potion icons,,C
-Mindful Darkness,MindfulDarkness-v8.0.3-1.20.1-Forge.jar,Dark mode,,C
-Iris & Oculus Flywheel Compat,oculus-flywheel-compat-forge1.20.1+1.1.4.jar,Flywheel + Shaders,,C
-Oculus,oculus-mc1.20.1-1.8.0.jar,Shaders,,C
-Complementary Shaders - Reimagined,ComplementaryReimagined_r5.5.1.zip,Shader pack,,C
-Distant Horizons,DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar,See very far,,C/S
-Resource Packs,,,,
-Stay True,Stay_True_1.20.4.zip,So nice,curse,C
-Stay True Modded Compats,Stay True Compats v7 [1.19].zip,More Staying True,curse,C
-Sparkles: Stardust Labs Resourcepack,Sparkles_1.21.x_v1.1.3.zip,Terralith and Incidium Fixes,,C
-Utilities,,,,
-Alternate Current,alternate_current-mc1.20-1.7.0.jar,Faster Redstone,,C/S
-AttributeFix,AttributeFix-Forge-1.20.1-21.0.4.jar,small fix,,C/S
-Canary,canary-mc1.20.1-0.3.3.jar,Lithium port,,C/S
-Saturn,saturn-mc1.20.1-0.1.3.jar,Memory reducer,,C/S
-CreateBetterFps,Ponder-Forge-1.20.1-1.0.0.jar,Better Create preformance,,C/S
-Dynamic Music Updated,dynmus-v2.3.2+1.20-forge.jar,More music throughout,,C
-FPS Reducer,FpsReducer2-forge-1.20-2.5.jar,Reduced usage when not in focus,,C
-EntityCulling,entityculling-forge-1.7.4-mc1.20.1.jar,skip rendering Block/Entities that are not visible,,C
-Embeddium,embeddium-0.3.31+mc1.20.1.jar,More compatible Rubidium/Sodium,,C
-Rubidium Extra,rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar,a few more settings,,C
-"Get It Together, Drops!",getittogetherdrops-forge-1.20-1.3.jar,combine drops,,C/S
-FerriteCore,ferritecore-6.0.1-forge.jar,Lower RAM,,C/S
-Advanced Backups,AdvancedBackups-forge-1.20-3.7.1.jar,World Backups,,C/S
-Fastload,Fastload-Reforged-mc1.20.1-3.4.0.jar,Faster world loading,,C/S
-KubeJS,kubejs-forge-2001.6.5-build.16.jar,Custom crafting,,C/S
-KubeJS Create,kubejs-create-forge-2001.3.0-build.8.jar,Create Crafting,,C/S
-In Control!,incontrol-1.20-9.2.11.jar,disable mobs spawning on trees (#minecraft:logs),,C/S
-Lychee,Lychee-1.20.1-Forge-5.1.19.jar,Extra events for recipies,,C/S
-ProbeJS,,VScode helper,curse,DEV
-NetherPortalFix,netherportalfix-forge-1.21.5-21.5.2.jar,small fix,,C/S
-Memory Leak Fix,memoryleakfix-forge-1.17+-1.1.5.jar,small fix,,C/S
-ModernFix,modernfix-forge-5.22.0+mc1.20.1.jar,Fixes for loading and memory,,C/S
-ImmediatelyFast,ImmediatelyFast-Forge-1.5.0+1.20.4.jar,Faster Rendering,,C
-Noisium,noisium-forge-2.3.0+mc1.20-1.20.1.jar,faster world generation,,C/S
-Polymorph,polymorph-forge-0.49.9+1.20.1.jar,in case of recipe conflicts,,C/S
-Chunky,Chunky-1.3.146.jar,Pre-generate chunks,,C/S
-Yeetus Experimentus,YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar,Disable annoying message,,C
-Configured Defaults,ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar,defualt configs,,C
-Librarys,,,,
-Architectury API,architectury-9.2.14-forge.jar,"The Mighty Architectury, REI, Decortive Blocks, KubeJS",,C/S
-AzureLib,azurelib-neo-1.20.1-2.0.41.jar,Mob Catalog,,C/S
-Balm,balm-forge-1.20.1-7.3.27-all.jar,Nether Portal Fix,,C/S
-Blueprint,blueprint-1.20.1-7.1.3.jar,"Caverns & Chasms, Environmental, Autumnity",,C/S
-Bookshelf,Bookshelf-Forge-1.20.1-20.2.13.jar,Enchantment Discriptions,,C
-Caelus API,caelus-forge-3.2.0+1.20.1.jar,needed for Elytra Slot,,C/S
-Cloth Config API,cloth-config-11.1.136-forge.jar,"REI, Truly Tresures",,C/S
-Collective,collective-1.20.1-8.1.jar,"Random Bone Meal Flowers, Ice Prevents Crop Growth",,C/S
-CoroUtil,coroutil-forge-1.20.1-1.3.7.jar,Watut,,C
-Curios API,curios-forge-5.14.0+1.20.1.jar,Artifacts,,C/S
-Cupboard,cupboard-1.20.1-2.7.jar,Biome Sizes,,C/S
-Forgified Fabric API,fabric-api-0.92.2+1.11.12+1.20.1.jar,Continuity,,C/S
-Fzzy Config,fzzy_config-0.6.9+1.20.1+forge.jar,EMI Loot,,C/S
-Geckolib,geckolib-forge-1.20.1-4.7.1.2.jar,Create: Balanced Flight,,C/S
-iChunUtil,iChunUtil-1.20.1-Forge-1.0.3.jar,Ding,,C
-Integrated API,integrated_api-1.5.1+1.20.1-forge.jar,Integrated Dungeons,,C/S
-Kiwi 🥝,Kiwi-1.20.1-Forge-11.8.30.jar,Passable Foliage,,C/S
-Kotlin for Forge,kotlinforforge-4.11.0-all.jar,"libLPN, Elytra trims",,C/S
-libIPN,libIPN-forge-1.20-4.0.2.jar,Inventory Profiles Next,,C
-MaFgLib,MaFgLib-0.1.13-mc1.20.1.jar,Tweakerge,,C
-Majrusz Library,majrusz-library-forge-1.20.1-7.0.8.jar,Majrusz's Enchantments,,C/S
-Moonlight Lib,moonlight-1.20-2.14.1-forge.jar,"Supplementaries, Every Compact",,C/S
-Pehkui,Pehkui-3.8.2+1.20.1-forge.jar,Mob Catalog,,C/S
-Petrolpark's Library,petrolpark-1.20.1-1.4.9-all.jar,Petrol's Parts,,C/S
-Puzzles Lib,PuzzlesLib-v8.1.32-1.20.1-Forge.jar,"Effect Discriptions, Mindfull Darkness, magnumtorch, easyanvils",,C/S
-Rhino,rhino-forge-2001.2.3-build.10.jar,KubeJS,,C/S
-Searchables,Searchables-forge-1.20.1-1.0.3.jar,Controlling,,C
-Sinytra Connector,Connector-1.0.0-beta.46+1.20.1.jar,Forgified,,C/S
-Sophisticated Core,sophisticatedcore-1.20.1-1.2.58.980.jar,Sophisticated Backpacks,,C/S
-SuperMartijn642's Config Lib,supermartijn642configlib-1.1.8-forge-mc1.20.jar,Rechiseld,,C/S
-SuperMartijn642's Core Lib,supermartijn642corelib-1.1.18-forge-mc1.20.1.jar,Rechiseld,,C/S
-Symbols N Stuff,symbols_n_stuff-0.1.2+1.20.1+forge.jar,EMI Loot,,C/S
-UniLib,UniLib-1.0.5+1.20.1-forge.jar,CraftPresence,,C
-YetAnotherConfigLib (YACL),yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar,Elytra Trims,,C/S
-Zeta,Zeta-1.0-30.jar,Quark,,C/S
+Name,Minecraft Version 1.20.1,Added For,Info,Client/Server,
+World Generation,,,,,
+Biome Sizes[Forge/Fabric],biomesize-1.20.1-1.5.jar,Large biomes,curse,C/S,- [Biome Sizes[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/biomesize)
+TerraBlender,TerraBlender-forge-1.20.1-3.0.1.10.jar,blending biomes,,C/S,- [TerraBlender](https://modrinth.com/mod/terrablender)
+Cliff under a Tree (CliffTree),clifftree-1.7.2.jar,more biome improvments,,C/S,- [Cliff under a Tree (CliffTree)](https://modrinth.com/datapack/clifftree)
+Blooming Biosphere,blooming-biosphere-1.1.0.jar,Some flowerly biomes,,C/S,- [Blooming Biosphere](https://modrinth.com/datapack/blooming-biosphere)
+Environmental,environmental-1.20.1-4.0.1.jar,Plants & Animals,,C/S,- [Environmental](https://modrinth.com/mod/environmental)
+Stony Cliffs Are Cool,Stony Cliffs FML v1.1.2.jar,stony cliffs,,C/S,- [Stony Cliffs Are Cool](https://modrinth.com/datapack/stony-cliffs-are-cool)
+Caverns & Chasms,caverns_and_chasms-1.20.1-2.0.0.jar,more underground things,,C/S,- [Caverns & Chasms](https://modrinth.com/mod/caverns-and-chasms)
+Create: Molten Vents,molten_vents-1.20.1-2.0.9.jar,A way to generate ore blocks,,C/S,- [Create: Molten Vents](https://modrinth.com/mod/create-molten-vents)
+Integrated Dungeons and Structures,idas_forge-1.10.3+1.20.1.jar,Cool structures,,C/S,- [Integrated Dungeons and Structures](https://modrinth.com/mod/idas)
+Integrated Stronghold,integrated_stronghold-1.1.1+1.20.1-forge.jar,Cool Stronghold,,C/S,- [Integrated Stronghold](https://modrinth.com/mod/integrated-stronghold)
+Integrated Villages,integrated_villages-1.1.4+1.20.1-forge.jar,Cool Villages,,C/S,- [Integrated Villages](https://modrinth.com/mod/integrated-villages)
+Incendium,Incendium_1.20.x_v5.3.5.jar,Cool Nether,,C/S,- [Incendium](https://modrinth.com/datapack/incendium)
+Nullscape,Nullscape_1.20.x_v1.2.8.jar,Cool End,,C/S,- [Nullscape](https://modrinth.com/mod/nullscape)
+End's Phantasm,phantasm-1.0.1.jar,Cooler End,,C/S,- [End's Phantasm](https://modrinth.com/mod/ends-phantasm)
+Custom Trees from Saplings,custom-trees-from-saplings-1.20.jar,a way to get big trees,,C/S,- [Custom Trees from Saplings](https://modrinth.com/datapack/custom-trees-from-saplings)
+Random Bone Meal Flowers,randombonemealflowers-1.20.1-4.7.jar,flower farm anywhere,,C/S,- [Random Bone Meal Flowers](https://modrinth.com/mod/random-bone-meal-flowers)
+Create: Easy Structures,create_easy_structures-0.2-forge-1.20.1.jar,create structures,,C/S,- [Create: Easy Structures](https://modrinth.com/mod/create-easy-structures)
+Create: Let The Adventure Begin,create_ltab-2.7.8.jar,many more strcutures,,C/S,- [Create: Let The Adventure Begin](https://modrinth.com/datapack/create-let-the-adventure-begin)
+Create: Structures Arise,create_structures_arise-160.33.32-forge-1.20.1.jar,many more strcutures,,C/S,- [Create: Structures Arise](https://modrinth.com/mod/create-structures-arise)
+Mob Catalog,mobcatalog-1.0.8+1.20.1.jar,Penguins,,C/S,- [Mob Catalog](https://modrinth.com/mod/mob-catalog)
+Automation,,,,,
+Create,create-1.20.1-6.0.6.jar,"you know, what it's based on",,C/S,- [Create](https://modrinth.com/mod/create)
+Create Crafts & Additions,createaddition-1.20.1-1.3.1.jar,cake/electric,,C/S,- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
+Petrol's Parts (Create add-on),petrolsparts-1.20.1-1.2.3-all.jar,Fancy-smancy gears,,C/S,- [Petrol's Parts (Create add-on)](https://modrinth.com/mod/petrols-parts)
+Create: Diesel Generators,createdieselgenerators-1.20.1-1.3.2.jar,Endgame power source,,C/S,- [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators)
+Create Enchantment Industry,create_enchantment_industry-1.3.3-for-create-6.0.6.jar,Enchant with Create,,C/S,- [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)
+Create Mechanical Extruder,create_mecanical_extruder-1.20.1-1.6.10-6.0.6.jar,simpler way to make stones,,C/S,- [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder)
+Create Railways Navigator,createrailwaysnavigator-forge-1.20.1-beta-0.8.4-C6.jar,more train things,,C/S,- [Create Railways Navigator](https://modrinth.com/mod/create-railways-navigator)
+Create Track Map,,Shows train network,needs update,C/S,
+Create: Power Loader,create_power_loader-2.0.3-mc1.20.1.jar,conditional chunk loading,,C/S,- [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
+Create Central Kitchen,create_central_kitchen-1.20.1-for-create-6.0.4-1.4.1.jar,tasty,,C/S,- [Create Central Kitchen](https://modrinth.com/mod/create-central-kitchen)
+Farmer's Delight,FarmersDelight-1.20.1-1.2.7.jar,More foods,,C/S,- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+End's Delight,ends_delight-2.5.1+forge.1.20.1.jar,End food,,C/S,- [End's Delight](https://modrinth.com/mod/ends-delight)
+Create Confectionery,create-confectionery1.20.1_v1.1.0.jar,Chocolates,,C/S,- [Create Confectionery](https://modrinth.com/mod/create-confectionery)
+Create: Fishing Bobber Detector,bobberdetector-forge1.20.1-1.0.2.jar,Auto fishing,,C/S,- [Create: Fishing Bobber Detector](https://modrinth.com/mod/create-fishing-bobber-detector)
+Create More: Parallel Pipes,cmparallelpipes-1.20.1-1.1.0.jar,Parallel Pipes,,C/S,- [Create More: Parallel Pipes](https://modrinth.com/mod/create-more-parallel-pipes)
+Create Factory Logistics,create_factory_logistics-1.20.1-1.4.4.jar,Fluid Requesting,,C/S,- [Create Factory Logistics](https://modrinth.com/mod/create_factory_logistics)
+Create: Hypertubes,create_hypertube-0.2.2-FORGE.jar,Hypertubes,,C/S,- [Create: Hypertubes](https://modrinth.com/mod/hypertube)
+Create: Mobile Packages,create_mobile_packages-1.20.1-0.5.4-4.jar,Inventroy Delivery,,C/S,- [Create: Mobile Packages](https://modrinth.com/mod/create-mobile-packages)
+Building,,,,,
+Another Furniture,another_furniture-forge-1.20.1-3.0.2.jar,Furniture,,C/S,- [Another Furniture](https://modrinth.com/mod/another-furniture)
+Dave's Building Extended,[1.20.1]davesbuilds.jar,Train Building pieces,curse,C/S,- [Dave's Building Extended](https://www.curseforge.com/minecraft/mc-mods/daves-building-extended)
+Create: Additional Lights,morelights-0.2.1.jar,More electric lights,,C/S,- [Create: Additional Lights](https://modrinth.com/mod/create-additional-lights)
+Create: Steam 'n' Rails,Steam_Rails-1.6.11-alpha+forge-mc1.20.1.jar,More Railroad building blocks,,C/S,- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+Create: Bells and Whistles,bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar,More train decorations,,C/S,- [Create: Bells and Whistles](https://modrinth.com/mod/bellsandwhistles)
+Create: Connected,create_connected-1.1.7-mc1.20.1-all.jar,usful kenetics and redstone,,C/S,- [Create: Connected](https://modrinth.com/mod/create-connected)
+Create: Copycats,copycats-3.0.2+mc.1.20.1-forge.jar,all the copycat blocks,,C/S,- [Create: Copycats](https://modrinth.com/mod/copycats)
+Create: Deco,createdeco-2.0.3-1.20.1-forge.jar,Bricks and metals,,C/S,- [Create: Deco](https://modrinth.com/mod/create-deco)
+Create Encased,Create Encased-1.20.1-1.7.1-fix2.jar,Encase Everything,,C/S,- [Create Encased](https://modrinth.com/mod/create-encased)
+Create: Interiors,interiors-0.5.6+forge-mc1.20.1-local.jar,Chairs,,C/S,- [Create: Interiors](https://modrinth.com/mod/interiors)
+Create: Oxidized,create_oxidized-0.1.2.jar,easy weathering copper,,C/S,- [Create: Oxidized](https://modrinth.com/mod/create_oxidized)
+Rechiseled,rechiseled-1.1.6-forge-mc1.20.jar,more blocks,,C/S,- [Rechiseled](https://modrinth.com/mod/rechiseled)
+Rechiseled: Create,rechiseledcreate-1.0.2a-forge-mc1.20.jar,more create blocks,,C/S,- [Rechiseled: Create](https://modrinth.com/mod/rechiseled-create)
+Quark,Quark-4.0-462.jar,Many blocks/items,,C/S,- [Quark](https://modrinth.com/mod/quark)
+Every Compat (Wood Good),everycomp-1.20-2.8.10-forge.jar,All the wood varients,,C/S,- [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat)
+Supplementaries,supplementaries-1.20-3.1.26.jar,cool decorations,,C/S,- [Supplementaries](https://modrinth.com/mod/supplementaries)
+Supplementaries Squared,suppsquared-1.20-1.1.21.jar,cool decorations again,,C/S,- [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
+Amendments,amendments-1.20-1.2.19.jar,cool decorations more,,C/S,- [Amendments](https://modrinth.com/mod/amendments)
+Twigs,Twigs-1.20.1-3.1.1.jar,Block varients,,C/S,- [Twigs](https://modrinth.com/mod/twigs)
+Decorative Blocks,decorative_blocks-forge-1.20.1-4.1.3.jar,Decorations,,C/S,- [Decorative Blocks](https://modrinth.com/mod/decorative-blocks)
+Infinity Buttons,infinitybuttons-1.20.1-4.0.7.jar,neat buttons,,C/S,- [Infinity Buttons](https://modrinth.com/mod/infinitybuttons)
+Tools,,,,,
+Sophisticated Backpacks,sophisticatedbackpacks-1.20.1-3.23.16.1243.jar,backpack,,C/S,- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
+Inventory Profiles Next,InventoryProfilesNext-forge-1.20-1.10.14.jar,Inventory sorting and orginization,,C,- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
+Effortless Building,effortlessbuilding-1.20.1-3.10.jar,Easy Building,,C/S,- [Effortless Building](https://modrinth.com/mod/effortless-building)
+Building Wands,BuildingWands-mc1.20.1-2.7-forge-beta.jar,Building with wands,,C/S,- [Building Wands](https://modrinth.com/mod/building-wands)
+The Mighty Architectury,mightyarchitect-0.9.0-FORGE.jar,Automated Building design,,C,- [The Mighty Architectury](https://modrinth.com/mod/the-mighty-architectury)
+Create Stuff & Additions,create-stuff-additions1.20.1_v2.1.0.jar,Create Flavored tools + Armor,,C/S,- [Create Stuff & Additions](https://modrinth.com/mod/create-stuff-additions)
+Artifacts,artifacts-forge-9.5.16.jar,extra curios,,C/S,- [Artifacts](https://modrinth.com/mod/artifacts)
+Enchanted Charms,enchantedcharms-forge-1.20.1-0.1.1.0.jar,unique amulets,check extra xp,C/S,- [Enchanted Charms](https://modrinth.com/mod/enchanted-charms)
+Majrusz's Enchantments,majruszs-enchantments-forge-1.20.1-1.10.8.jar,Telekinesis is awesome,disable extra xp enchant,C/S,- [Majrusz's Enchantments](https://modrinth.com/mod/majruszs-enchantments)
+Vein Mining,veinmining-forge-1.5.0+1.20.1.jar,Vein mining enchantment,,C/S,- [Vein Mining](https://modrinth.com/mod/vein-mining)
+Truly Treasures,trulytreasures-1.20-3.0.0-forge.jar,Get enchants from wandering traders,,C/S,- [Truly Treasures](https://modrinth.com/mod/truly-treasures)
+Grappling Hook Mod,grappling_hook_mod-1.20.1-1.20.1-v13.jar,grapple based movement,,C/S,- [Grappling Hook Mod](https://modrinth.com/mod/grappling-hook-mod)
+Create: Balanced Flight,create-balancedflight-1.20.1_v2.4.5.jar,Stressed flight,,C/S,- [Create: Balanced Flight](https://modrinth.com/mod/balancedflight)
+Recall Potion [Forge/NeoForge],recall_potion-1.3.0-forge-1.20.1.jar,recall,,C/S,- [Recall Potion [Forge/NeoForge]](https://modrinth.com/mod/recall-potion-neoforge)
+Comforts,comforts-forge-6.4.0+1.20.1.jar,Beds,,C/S,- [Comforts](https://modrinth.com/mod/comforts)
+Magnum Torch,MagnumTorch-v8.0.2-1.20.1-Forge.jar,Block Spawning,,C/S,- [Magnum Torch](https://modrinth.com/mod/magnum-torch)
+Elytra Trims,elytratrims-forge-3.5.9+1.20.1.jar,pretty Elytra,,C/S,- [Elytra Trims](https://modrinth.com/mod/elytra-trims)
+Create: Armor Trims,create_armor_trims-1.20.1-2.0.1.jar,more trims materials,,C/S,- [Create: Armor Trims](https://modrinth.com/datapack/create-mod-trims)
+Create: Misc and Things,create_misc_and_things_ 1.20.1_4.0A.jar,some neat things/blocks,,C/S,- [Create: Misc and Things](https://modrinth.com/mod/create-misc-and-things)
+Create: Pattern Schematics,pattern_schematics-1.2.3+forge-1.20.1.jar,auto-repeat schematics!,,C/S,- [Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics)
+Create: Tweaked Controllers,create_tweaked_controllers-1.20.1-1.2.5.jar,Controller support for contraptions,,C/S,- [Create: Tweaked Controllers](https://modrinth.com/mod/create-tweaked-controllers/gallery)
+Create: Extended Wrenches,create-extended-wrenches-1.20.1-1.3.0.jar,Cool wrenches,,C/S,- [Create: Extended Wrenches](https://modrinth.com/mod/extended-wrenches)
+Tool Belt,ToolBelt-1.20.1-1.20.02.jar,holds the tools,curse,C/S,- [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
+Nature's Compass,NaturesCompass-1.20.1-1.11.2-forge.jar,finds the biomes,,C/S,- [Nature's Compass](https://modrinth.com/mod/natures-compass)
+Explorer's Compass,ExplorersCompass-1.20.1-1.3.3-forge.jar,finds the structures,,C/S,- [Explorer's Compass](https://modrinth.com/mod/explorers-compass)
+Charm of Undying,charmofundying-forge-6.5.0+1.20.1.jar,Curios use,,C/S,- [Charm of Undying](https://modrinth.com/mod/charm-of-undying)
+Random Misfits,randomisfits-1.20.1-1.3.3-forge.jar,3x3 tools + extra,"hide bronze, zurite, enderite make steel recipies",C/S,- [Random Misfits](https://modrinth.com/mod/random-misfits)
+Ice Prevents Crop Growth,icepreventscropgrowth-1.20.1-3.5.jar,More options for plants,,C/S,- [Ice Prevents Crop Growth](https://modrinth.com/mod/ice-prevents-crop-growth)
+QoL,,,,,
+EMI,emi-1.1.21+1.20.1+forge.jar,Recipe lister,,C,- [EMI](https://modrinth.com/mod/emi)
+EMIffect,emiffect-forge-1.1.2+mc1.20.1.jar,Effect Discriptions,,C,- [EMIffect](https://modrinth.com/mod/emiffect)
+Moderately Enough Effect Descriptions (MEED) - A JEED Addon,MEED-1.20.1-5.7.jar,More Effect Discriptions,,C,- [Moderately Enough Effect Descriptions (MEED) - A JEED Addon](https://modrinth.com/mod/moderately-enough-effect-descriptions-(meed)-jeed-addon)
+EMI Enchanting,emi_enchanting-0.1.2+1.20.1+forge.jar,Enchantment info,,C,- [EMI Enchanting](https://modrinth.com/mod/emi-enchanting)
+Enchantment Discriptions,EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar,Enchantment Discriptions,,C,- [Enchantment Discriptions](https://modrinth.com/mod/enchantment-descriptions)
+EMI Trades,emitrades-forge-1.2.1+mc1.20.1.jar,Trade lister,,C,- [EMI Trades](https://modrinth.com/mod/emitrades)
+EMI Loot,emi_loot-0.7.5+1.20.1+fix1+fabric.jar,Loot lister,,C/S,- [EMI Loot](https://modrinth.com/mod/emi-loot)
+EMI Ores,emi_ores-1.2+1.20.1+forge.jar,Ore lister,,C,- [EMI Ores](https://modrinth.com/mod/emi-ores)
+EMI: Create Schematics,emi_create_schematics-1.0.3.jar,Schematic lister,,C/S,- [EMI: Create Schematics](https://modrinth.com/mod/emi-create-schematics)
+JEI,jei-1.20.1-forge-15.20.0.106.jar,Backup lister,,C,- [JEI](https://modrinth.com/mod/jei)
+Just Enough Breeding (JEBr),justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar,Shows breeding foods,,C/S,- [Just Enough Breeding (JEBr)](https://modrinth.com/mod/justenoughbreeding)
+ItemZoom,itemzoom-1.20.1-2.9.0.jar,See blocks better in Inventory,"curse, needs EMI compatability",C,- [ItemZoom](https://www.curseforge.com/minecraft/mc-mods/itemzoom)
+Jade 🔍,Jade-1.20.1-Forge-11.13.1.jar,See what things are,,C/S,- [Jade 🔍](https://modrinth.com/mod/jade)
+Jade Addons (Forge),JadeAddons-1.20.1-Forge-5.5.0.jar,and some more things,,C/S,- [Jade Addons (Forge)](https://modrinth.com/mod/jade-addons-forge)
+Xaero's World Map,XaerosWorldMap_1.39.4_Forge_1.20.jar,Map,,C/S,- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+Xaero's Minimap,Xaeros_Minimap_25.2.0_Forge_1.20.jar,Map,,C/S,- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+Open Parties and Claims,open-parties-and-claims-forge-1.20.1-0.24.0.jar,Map claims,,C/S,- [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims)
+Food Effect Tooltips (Forge),foodeffecttooltips+forge-1.20.1-1.3.0.jar,Food Discriptions,,C,- [Food Effect Tooltips (Forge)](https://modrinth.com/mod/food-effect-tooltips-forge)
+Chat Heads,chat_heads-0.13.13-forge-1.20.jar,Heads in the chat,,C,- [Chat Heads](https://modrinth.com/mod/chat-heads)
+Corpse,corpse-forge-1.20.1-1.0.20.jar,Item saving on death,,C/S,- [Corpse](https://modrinth.com/mod/corpse)
+Easy Anvils,EasyAnvils-v8.0.2-1.20.1-Forge.jar,Enchants + naming,,C/S,- [Easy Anvils](https://modrinth.com/mod/easy-anvils)
+Companion 🐕,Companion-1.20.1-Forge-5.2.2.jar,Pet mechanics,,C/S,- [Companion 🐕](https://modrinth.com/mod/companion)
+Horseman,horseman-1.20.1-1.3.8-forge.jar,Better Horse controls,,C/S,- [Horseman](https://modrinth.com/mod/horseman)
+Controlling,Controlling-forge-1.20.1-12.0.2.jar,Better control menu,,C,- [Controlling](https://modrinth.com/mod/controlling)
+Cut Through,CutThrough-v8.0.2-1.20.1-Forge.jar,to not cut the grass,,C/S,- [Cut Through](https://modrinth.com/mod/cut-through)
+Time Control,timecontrol-1.20.1-1.6.0.jar,Longer daytime,,C/S,- [Time Control](https://modrinth.com/mod/time-control)
+Tweakerge,Tweakerge-0.1.5-mc1.20.1.jar,Many many tweaks,,C,- [Tweakerge](https://modrinth.com/mod/tweakerge)
+ClearDespawn,ClearDespawn-forge-1.20.2-1.1.15.jar,Flashing items when despawning,,C,- [ClearDespawn](https://modrinth.com/mod/cleardespawn)
+Elytra Slot,elytraslot-forge-6.4.4+1.20.1.jar,Elytra in Curios,,C/S,- [Elytra Slot](https://modrinth.com/mod/elytra-slot)
+Lootr,lootr-forge-1.20-0.7.35.90.jar,Instanced loot,,C/S,- [Lootr](https://modrinth.com/mod/lootr)
+CraftPresence,CraftPresence-2.5.4+1.20.1-forge.jar,Discord ,,C,- [CraftPresence](https://modrinth.com/mod/craftpresence)
+Ding,Ding-1.20.1-Forge-1.5.0.jar,gives a ding when game loads,,C,- [Ding](https://modrinth.com/mod/ding)
+Create: Compatible Storage,create_compatible_storage-2.1.0.jar,use any chest,,C/S,- [Create: Compatible Storage](https://modrinth.com/datapack/create-compatible-storage)
+Silent Mobs/Minecarts,silent-mobs-3.1.jar,Silence mobs,,C/S,- [Silent Mobs/Minecarts](https://modrinth.com/datapack/silent-mobs)
+No Enderman Grief,no-enderman-grief-v.1.1.2.jar,No random messes,,C/S,- [No Enderman Grief](https://modrinth.com/datapack/no-enderman-grief)
+Creeper Firework,creeper_firework-2.1.0.b.jar,No explosion holes,,C/S,- [Creeper Firework](https://modrinth.com/mod/creeper-firework)
+Visual Additions,,,,,
+Fusion (Connected Textures),fusion-1.2.7-forge-mc1.20.1.jar,Connected textures,,C,- [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures)
+Continuity,continuity-3.0.0+1.20.1.forge.jar,Optifine Connected textures,,C,- [Continuity](https://modrinth.com/mod/continuity)
+[ETF] Entity Texture Features,entity_texture_features_forge_1.20.1-6.2.9.jar,,,C,- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+[EMF] Entity Model Features,entity_model_features_forge_1.20.1-2.4.1.jar,,,C,- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)
+What Are They Up To (Watut),watut-forge-1.20.1-1.2.3.jar,see what others are doing,,C,- [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to)
+Neko's Enchanted Books,NekosEnchantedBooks-1.19.3-2.0.3.jar,Pretty books,,C,- [Neko's Enchanted Books](https://modrinth.com/mod/nekos-enchanted-books)
+Visuality: Reforged,visuality-forge-2.0.2.jar,More particals,,C,- [Visuality: Reforged](https://modrinth.com/mod/visuality-forge)
+CullLessLeaves Reforged (Unofficial),CullLessLeaves-Reforged-1.20.1-1.0.5,Less leaves for more,curse,C,- [CullLessLeaves Reforged (Unofficial)](https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged)
+Stylish Effects,StylishEffects-v8.0.2-1.20.1-Forge.jar,better potion icons,,C,- [Stylish Effects](https://modrinth.com/mod/stylish-effects)
+Mindful Darkness,MindfulDarkness-v8.0.3-1.20.1-Forge.jar,Dark mode,,C,- [Mindful Darkness](https://modrinth.com/mod/mindful-darkness)
+Colorwheel,colorwheel-forge-0.2.2+mc1.20.1.jar,Flywheel + Shaders,,C,- [Colorwheel](https://modrinth.com/mod/colorwheel)
+Colorwheel Patcher,colorwheel_patcher-forge-0.2.3+mc1.20.1.jar,,,C,- [Colorwheel Patcher](https://modrinth.com/mod/colorwheel-patcher)
+Vanillin,vanillin-forge-1.20.1-1.1.3.jar,Flywheel to other entities,,C,- [Vanillin](https://modrinth.com/mod/flw-vanillin)
+Oculus,oculus-mc1.20.1-1.8.0.jar,Shaders,,C,- [Oculus](https://modrinth.com/mod/oculus)
+Complementary Shaders - Reimagined,ComplementaryReimagined_r5.5.1.zip,Shader pack,,C,- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)
+Distant Horizons,DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar,See very far,,C/S,- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+Resource Packs,,,,,
+Stay True,Stay_True_1.20.4.zip,So nice,curse,C,- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+Stay True Modded Compats,Stay True Compats v7 [1.19].zip,More Staying True,curse,C,- [Stay True Modded Compats](https://www.curseforge.com/minecraft/texture-packs/stay-true-modded-compats)
+Sparkles: Stardust Labs Resourcepack,Sparkles_1.21.x_v1.1.3.zip,Terralith and Incidium Fixes,,C,- [Sparkles: Stardust Labs Resourcepack](https://modrinth.com/resourcepack/sparkles)
+Utilities,,,,,
+Advanced Backups,AdvancedBackups-forge-1.20-3.7.1.jar,World Backups,,C/S,- [Advanced Backups](https://modrinth.com/mod/advanced-backups)
+Alternate Current,alternate_current-mc1.20-1.7.0.jar,Faster Redstone,,C/S,- [Alternate Current](https://modrinth.com/mod/alternate-current)
+AttributeFix,AttributeFix-Forge-1.20.1-21.0.4.jar,small fix,,C/S,- [AttributeFix](https://modrinth.com/mod/attributefix)
+Canary,canary-mc1.20.1-0.3.3.jar,Lithium port,,C/S,- [Canary](https://modrinth.com/mod/canary)
+Saturn,saturn-mc1.20.1-0.1.3.jar,Memory reducer,,C/S,- [Saturn](https://modrinth.com/mod/saturn)
+Dynamic Music Updated,dynmus-v2.3.2+1.20-forge.jar,More music throughout,,C,- [Dynamic Music Updated](https://modrinth.com/mod/dynamic-music-updated)
+FPS Reducer,FpsReducer2-forge-1.20-2.5.jar,Reduced usage when not in focus,,C,- [FPS Reducer](https://modrinth.com/mod/fps-reducer)
+EntityCulling,entityculling-forge-1.7.4-mc1.20.1.jar,skip rendering Block/Entities that are not visible,,C,- [EntityCulling](https://modrinth.com/mod/entityculling)
+Embeddium,embeddium-0.3.31+mc1.20.1.jar,More compatible Rubidium/Sodium,,C,- [Embeddium](https://modrinth.com/mod/embeddium)
+Rubidium Extra,rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar,a few more settings,,C,- [Rubidium Extra](https://modrinth.com/mod/rubidium-extra)
+"Get It Together, Drops!",getittogetherdrops-forge-1.20-1.3.jar,combine drops,,C/S,"- [Get It Together, Drops!](https://modrinth.com/mod/get-it-together-drops)"
+FerriteCore,ferritecore-6.0.1-forge.jar,Lower RAM,,C/S,- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+Fastload,Fastload-Reforged-mc1.20.1-3.4.0.jar,Faster world loading,,C/S,- [Fastload](https://modrinth.com/mod/fastload)
+KubeJS,kubejs-forge-2001.6.5-build.16.jar,Custom crafting,,C/S,- [KubeJS](https://modrinth.com/mod/kubejs)
+KubeJS Create,kubejs-create-forge-2001.3.0-build.8.jar,Create Crafting,,C/S,- [KubeJS Create](https://modrinth.com/mod/kubejs-create)
+In Control!,incontrol-1.20-9.3.3.jar,disable mobs spawning on trees (#minecraft:logs),,C/S,- [In Control!](https://modrinth.com/mod/in-control)
+Lychee,Lychee-1.20.1-Forge-5.1.19.jar,Extra events for recipies,,C/S,- [Lychee](https://modrinth.com/mod/lychee)
+ProbeJS,probejs-7.0.0-forge.jar,VScode helper,,DEV,- [ProbeJS](https://modrinth.com/mod/probejs)
+NetherPortalFix,netherportalfix-forge-1.21.5-21.5.2.jar,small fix,,C/S,- [NetherPortalFix](https://modrinth.com/mod/netherportalfix)
+Memory Leak Fix,memoryleakfix-forge-1.17+-1.1.5.jar,small fix,,C/S,- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+ModernFix,modernfix-forge-5.24.1+mc1.20.1.jar,Fixes for loading and memory,,C/S,- [ModernFix](https://modrinth.com/mod/modernfix)
+ImmediatelyFast,ImmediatelyFast-Forge-1.5.0+1.20.4.jar,Faster Rendering,,C,- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+Noisium,noisium-forge-2.3.0+mc1.20-1.20.1.jar,faster world generation,,C/S,- [Noisium](https://modrinth.com/mod/noisium)
+Polymorph,polymorph-forge-0.49.9+1.20.1.jar,in case of recipe conflicts,,C/S,- [Polymorph](https://modrinth.com/mod/polymorph)
+Chunky,Chunky-1.3.146.jar,Pre-generate chunks,,C/S,- [Chunky](https://modrinth.com/plugin/chunky)
+Yeetus Experimentus,YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar,Disable annoying message,,C,- [Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus)
+Configured Defaults,ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar,defualt configs,,C,- [Configured Defaults](https://modrinth.com/mod/configured-defaults)
+Librarys,,,,,
+Architectury API,architectury-9.2.14-forge.jar,"The Mighty Architectury, REI, Decortive Blocks, KubeJS",,C/S,- [Architectury API](https://modrinth.com/mod/architectury-api)
+AzureLib,azurelib-neo-1.20.1-2.0.41.jar,Mob Catalog,,C/S,- [AzureLib](https://modrinth.com/mod/azurelib)
+Balm,balm-forge-1.20.1-7.3.27-all.jar,Nether Portal Fix,,C/S,- [Balm](https://modrinth.com/mod/balm)
+Blueprint,blueprint-1.20.1-7.1.3.jar,"Caverns & Chasms, Environmental, Autumnity",,C/S,- [Blueprint](https://modrinth.com/mod/blueprint)
+Bookshelf,Bookshelf-Forge-1.20.1-20.2.13.jar,Enchantment Discriptions,,C,- [Bookshelf](https://modrinth.com/mod/bookshelf-lib)
+Caelus API,caelus-forge-3.2.0+1.20.1.jar,needed for Elytra Slot,,C/S,- [Caelus API](https://modrinth.com/mod/caelus)
+Cloth Config API,cloth-config-11.1.136-forge.jar,"REI, Truly Tresures",,C/S,- [Cloth Config API](https://modrinth.com/mod/cloth-config)
+Collective,collective-1.20.1-8.1.jar,"Random Bone Meal Flowers, Ice Prevents Crop Growth",,C/S,- [Collective](https://modrinth.com/mod/collective)
+CoroUtil,coroutil-forge-1.20.1-1.3.7.jar,Watut,,C,- [CoroUtil](https://modrinth.com/mod/coroutil)
+Curios API,curios-forge-5.14.0+1.20.1.jar,Artifacts,,C/S,- [Curios API](https://modrinth.com/mod/curios)
+Cupboard,cupboard-1.20.1-2.7.jar,Biome Sizes,,C/S,- [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
+Forgified Fabric API,fabric-api-0.92.2+1.11.12+1.20.1.jar,Continuity,,C/S,- [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api)
+Fzzy Config,fzzy_config-0.6.9+1.20.1+forge.jar,EMI Loot,,C/S,- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+Geckolib,geckolib-forge-1.20.1-4.7.2.jar,Create: Balanced Flight,,C/S,- [Geckolib](https://modrinth.com/mod/geckolib)
+iChunUtil,iChunUtil-1.20.1-Forge-1.0.3.jar,Ding,,C,- [iChunUtil](https://modrinth.com/mod/ichunutil)
+Integrated API,integrated_api-1.5.1+1.20.1-forge.jar,Integrated Dungeons,,C/S,- [Integrated API](https://modrinth.com/mod/integrated-api)
+Kiwi 🥝,Kiwi-1.20.1-Forge-11.8.30.jar,Passable Foliage,,C/S,- [Kiwi 🥝](https://modrinth.com/mod/kiwi)
+Kotlin for Forge,kotlinforforge-4.11.0-all.jar,"libLPN, Elytra trims",,C/S,- [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
+libIPN,libIPN-forge-1.20-4.0.2.jar,Inventory Profiles Next,,C,- [libIPN](https://modrinth.com/mod/libipn)
+MaFgLib,MaFgLib-0.1.13-mc1.20.1.jar,Tweakerge,,C,- [MaFgLib](https://modrinth.com/mod/mafglib)
+Majrusz Library,majrusz-library-forge-1.20.1-7.0.8.jar,Majrusz's Enchantments,,C/S,- [Majrusz Library](https://modrinth.com/mod/majrusz-library)
+Moonlight Lib,moonlight-1.20-2.14.1-forge.jar,"Supplementaries, Every Compact",,C/S,- [Moonlight Lib](https://modrinth.com/mod/moonlight)
+Pehkui,Pehkui-3.8.2+1.20.1-forge.jar,Mob Catalog,,C/S,- [Pehkui](https://modrinth.com/mod/pehkui)
+Petrolpark's Library,petrolpark-1.20.1-1.4.9-all.jar,Petrol's Parts,,C/S,- [Petrolpark's Library](https://modrinth.com/mod/petrolpark)
+Puzzles Lib,PuzzlesLib-v8.1.32-1.20.1-Forge.jar,"Effect Discriptions, Mindfull Darkness, magnumtorch, easyanvils",,C/S,- [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+Rhino,rhino-forge-2001.2.3-build.10.jar,KubeJS,,C/S,- [Rhino](https://modrinth.com/mod/rhino)
+Searchables,Searchables-forge-1.20.1-1.0.3.jar,Controlling,,C,- [Searchables](https://modrinth.com/mod/searchables)
+Sinytra Connector,Connector-1.0.0-beta.46+1.20.1.jar,Forgified,,C/S,- [Sinytra Connector](https://modrinth.com/mod/connector)
+Sophisticated Core,sophisticatedcore-1.20.1-1.2.58.980.jar,Sophisticated Backpacks,,C/S,- [Sophisticated Core](https://modrinth.com/mod/sophisticated-core)
+SuperMartijn642's Config Lib,supermartijn642configlib-1.1.8-forge-mc1.20.jar,Rechiseld,,C/S,- [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib)
+SuperMartijn642's Core Lib,supermartijn642corelib-1.1.18-forge-mc1.20.1.jar,Rechiseld,,C/S,- [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib)
+Symbols N Stuff,symbols_n_stuff-0.1.2+1.20.1+forge.jar,EMI Loot,,C/S,- [Symbols N Stuff](https://modrinth.com/mod/symbols-n-stuff)
+UniLib,UniLib-1.0.5+1.20.1-forge.jar,CraftPresence,,C,- [UniLib](https://modrinth.com/mod/unilib)
+YetAnotherConfigLib (YACL),yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar,Elytra Trims,,C/S,- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+Zeta,Zeta-1.0-30.jar,Quark,,C/S,- [Zeta](https://modrinth.com/mod/zeta)

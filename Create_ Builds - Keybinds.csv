@@ -1,28 +1,32 @@
 Name,Key,Mod
-Drop,t,Vanilla
+Drop Item,t,Vanilla
 Open Chat,Enter,Vanilla
 Activate Vein Mining,q,Veinminer
 Player Death History,u,Corpse
+Block Rotation Menu,c,Create
 Access Toolboxes,Left Alt,Create
 Access Backpack,b,Sophisticated Backpacks
 Run Inventory Upgrades,Delete,Sophisticated Backpacks
 Quiver,v,Supplementaries
+Open Portable Stock Ticker,g,Create Mobile Packages
+Switch Tool,r,Tool Belt
 Belt Slot,Insert,Tool Belt
 Map,m,Xaero's World Map
 Enlarge Minimap,Mouse 4,Xaero's World Map
-New Waypoint,n,Xaero's World Map
-Waypoint Screen,Shift + n,Xaero's World Map
+New Waypoint,",",Xaero's World Map
+Waypoint Screen,"Shift + ,",Xaero's World Map
+Show Route Overlay,n,Create Railways Navigator
 Wand Menu,Crtl + q,Building Wands
-Wand Undo,Crtl + z,Building Wands
 Open Menu,Grave `,Effortless Building
-Effortless Undo,z,Effortless Building
-Effortless Redo,y,Effortless Building
-Shader toggle,o,Oculus
-Shader menu,i,Oculus
+Effortless Undo,Shift + z,Effortless Building
+Effortless Redo,Shift + y,Effortless Building
+Shader menu,o,Oculus
+Shader toggle,Shift + o,Oculus
 Party Menu,Apostrophe ',Open Parties and Claims
 Back,Mouse 4,Quark
 Rotation Lock,k,Quark
-The Mighty Architect,g,The Mighty Architect
+The Mighty Architect,Page Up,The Mighty Architect
+Open Death History,u,Corpse
 Tweakaroo Settings,x + t,Tweakage
 Zoom,c,Tweakage
 Free Camera,F14,Tweakage
